@@ -1,13 +1,15 @@
-# A1 – [Topic]
+# A1 – [Create Portfolio]
 
 ## Objective
 
 
 ## Analyze
-does this work i have no idea 
+Portfolio #1 https://chamarasapumal.github.io/mech-me/ 
+
+
 
 ## Decide
 
 
 ## Communicate
-
+Refer to the About Me section of my portfolio
