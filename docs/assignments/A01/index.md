@@ -2,6 +2,7 @@
 
 ## Analyze
 Task A: Portfolio Analysis
+
 [Portfolio #1](https://chamarasapumal.github.io/mech-me/) 
 The navigation bar at the top of his portfolio when you open it is very user-friendly. It's hard to miss, and it directs the user to any information about him that you are looking for. One critique is with the projects section of his portfolio, as he provides repositories, but it's hard to know what you're looking at. The folders are not titled on his GitHub profile, and the repository for his lighting system causes a 404 error. Another issue is his memories section, which is mostly additional projects, but under a different name. Combining these into a large project collage would fit much better. Reproducibility is a weak point for Sapumal. For example, if you click on his Smart Home Control project in the memories section, it includes a list of components and the software he used, but there's no code or explanation of what the project does. I can't replicate his project because I have no idea what his code looks like. There's meant to be a video showing how the system works, but it isn't working. As for evidence, there's much more of what the final answer was, rather than reasons for his decisions. His projects mostly contain a list of parts used and proof of the final project, but lack an explanation. He could've explained different things in each project, like how his projects compare to other products, his biggest challenges, or what he can improve on. His tone  is inconsistent. His projects section follows a consistent format, but the special moments section makes the portfolio seem informal. Including the special moments portion feels as if it's more of a blog or social media post, rather than an engineering portfolio meant for hiring managers.
 
@@ -10,7 +11,7 @@ Navigation through Alex's portfolio has been made very simple. The sidebar on th
 
 Task B: Product Analysis
 
-For the Product Analysis, I have chosen a stapler. The primary function of a stapler is to convert a downward force into mechanical fastening by deforming a metal staple, allowing it to go through multiple sheets of paper by bending the staple inwards, and having multiple pieces of paper stick together through the staple. A stapler is often used for longer documents or exams, so people won't easily lose a sheet of paper that goes along with several others. The governing model of a stapler is lever mechanics, along with a linear spring mechanism when it rebounds after being used. An assumption to make the model valid is that the lever arm does not flex  under an applied load. This means that the force applied at the pivot is transmitted through rotation, rather than bending the material itself.
+For the Product Analysis, I have chosen a stapler. The primary function of a stapler is to convert downward force into mechanical fastening by deforming a metal staple, allowing it to pass through multiple sheets of paper by bending the staple inward and holding the sheets together. A stapler is often used for longer documents or exams, so people won't easily lose a sheet of paper that goes along with several others. The governing model of a stapler is lever mechanics, along with a linear spring mechanism when it rebounds after being used. An assumption to make the model valid is that the lever arm does not flex  under an applied load. This means that the force applied at the pivot is transmitted through rotation, rather than bending the material itself.
 Lever Equation: F_out * d_out = F_in  * d_in
 Spring Equation: F = -kx
 
@@ -25,6 +26,10 @@ The top arm holds a coil spring almost as long as the entire stapler. The spring
 <img width="768" height="1024" alt="IMG_3423" src="https://github.com/user-attachments/assets/6735608a-7ac0-4477-af24-6bb34dad5a24" />
 
 The base has a plate where the staple's legs are bent inward, as the top half pushes the staple through the paper. You can also see the pivot point and where the staple comes out.
+
+<img width="611" height="361" alt="image" src="https://github.com/user-attachments/assets/2f766c1c-fdba-4b22-9808-fd57cd5b8c05" />
+
+An example of a patent for the Swingline stapler is US Patent 2915753A, which Henry Ruskin authorized in 1959. The first patent for this stapler includes an arm that connects to the base and can swing all the way back. It was designed this way so you can either press down and staple paper or flip the stapler into tacker mode, which allows you to use the stapler on walls.
 
 ## Decide
 
