@@ -21,6 +21,14 @@ Spring Equation: F = -kx
 
 The case forms the outer housing of the stapler, creating a surface for someone to apply a downward force on. The case is designed to be long to provide a comfortable location to apply the force around the hinge. The case is also curved so the pressure applied to someone's hand is even.
 
+<img width="768" height="1024" alt="IMG_3425" src="https://github.com/user-attachments/assets/f9217642-1c50-441e-bbc9-dc99fbd5b815" />
+
+The top arm holds a coil spring almost as long as the entire stapler. The spring connects the pivot point to where the stapler goes into place at the front. Once someone presses down, the spring compresses, storing pressure until it's released and springs back up into its normal position
+
+<img width="768" height="1024" alt="IMG_3423" src="https://github.com/user-attachments/assets/6735608a-7ac0-4477-af24-6bb34dad5a24" />
+
+The base has a plate where the staple's legs are bent inward, as the top half pushes the staple through the paper. You can also see the pivot point and where the staple comes out.
+
 ## Decide
 
 
