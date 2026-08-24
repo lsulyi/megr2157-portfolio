@@ -1,8 +1,5 @@
 # A1 – [Create Portfolio]
 
-## Objective
-
-
 ## Analyze
 Task A: Portfolio Analysis
 [Portfolio #1](https://chamarasapumal.github.io/mech-me/) 
