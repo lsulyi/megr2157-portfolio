@@ -18,6 +18,7 @@ Lever Equation: F_out * d_out = F_in  * d_in
 Spring Equation: F = -kx
 
 <img width="768" height="1024" alt="IMG_3420" src="https://github.com/user-attachments/assets/91f825fb-3372-42d6-a1dc-1315850cc9bb" />
+
 The case forms the outer housing of the stapler, creating a surface for someone to apply a downward force on. The case is designed to be long to provide a comfortable location to apply the force around the hinge. The case is also curved so the pressure applied to someone's hand is even.
 
 ## Decide
