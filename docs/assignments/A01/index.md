@@ -43,6 +43,7 @@ My homepage is designed to answer three big questions: what this site is about, 
 
 Intentional  Customization:
 
+I made two different changes to the template: I changed the accent to UNC Charlotte's official green, and the font to Roboto Slab. The original bright green accent didn't match the photo included on the main page. This change was made because I want this portfolio to be professional and represent the school and me, as the older bright green made the homepage look visually worse. The font was changed because there could've been a readability issue on the sidebar for every assignment. The font change makes the list easier to scan, which makes navigation through the portfolio easier, because without a readable bar, it may take someone longer than sixty seconds to find a specific assignment. These two changes make the template seem much less generic and more on-brand.
 
 Documentation Standard:
 
