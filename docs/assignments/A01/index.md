@@ -36,9 +36,13 @@ Two products that complete the same task are a battery-powered stapler (US Paten
 <img width="732" height="470" alt="image" src="https://github.com/user-attachments/assets/927d824e-4c80-4bbc-be96-244fdf553250" />
 <img width="540" height="402" alt="image" src="https://github.com/user-attachments/assets/b0046c7f-5df7-48e4-9011-d466709727d2" />
 
-
-
 ## Decide
+Home Page Identity:
+
+My homepage is designed to answer three big questions: what this site is about, how it is organized, and what standard I should hold this individual to. The opening paragraph explains that this portfolio is a working record of my engineering design decisions during this course. This line states that this isn't a gallery of work and sets a high expectation for readers. Each assignment is split into three main categories: analyze, decide, and communicate, so the reader knows where to look if they need a final calculation or an explanation for a student's engineering decision. These three sections were specifically chosen to support our engineering decisions, so the reader can analyze our thought process. The bottom of the main page also includes a semester-long timeline, allowing the reader to look for growth within each weekly assignment and understand how they developed as an engineer each week. The main page educates the reader on the portfolio's structure so they aren't wasting time looking for something specific. 
+
+Intentional  Customization:
+
 
 
 ## Communicate
