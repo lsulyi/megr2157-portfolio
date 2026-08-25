@@ -44,6 +44,9 @@ My homepage is designed to answer three big questions: what this site is about, 
 Intentional  Customization:
 
 
+Documentation Standard:
+
+Every entry within my portfolio will provide a specific reason for my engineering decisions through calculations, constraints, or documentation rather than a basic description of what was made.
 
 ## Communicate
 Refer to the About Me section of my portfolio
