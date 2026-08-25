@@ -32,6 +32,7 @@ The base has a plate where the staple's legs are bent inward, as the top half pu
 An example of a patent for the Swingline stapler is (US Patent 2915753A), which Henry Ruskin authorized in 1959. The first patent for this stapler includes an arm that connects to the base and can swing all the way back. It was designed this way so you can either press down and staple paper or flip the stapler into tacker mode, which allows you to use the stapler on walls. Ruskin designed the stapler arm to be hinged to the base, while also being able to swing, instead of being in a fixed position. I think he made this decision because having a stapler and tacker mode makes it easier to staple together pieces of paper and staple over materials such as cork. Instead of making these two different tools, they have been combined so there is less to manufacture, and it saves people money because they wouldn't have to buy both. Allowing the arm to swing rather than being bolted onto the base allows the spring and blade to operate either way. 
 
 Two products that complete the same task are a battery-powered stapler (US Patent 20020166884A1) and a Staple-free Stapler (US Patent 5024643A)
+
 <img width="732" height="470" alt="image" src="https://github.com/user-attachments/assets/927d824e-4c80-4bbc-be96-244fdf553250" />
 <img width="540" height="402" alt="image" src="https://github.com/user-attachments/assets/b0046c7f-5df7-48e4-9011-d466709727d2" />
 
