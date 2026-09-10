@@ -27,11 +27,14 @@ Before making any sketches in SolidWorks, I started by plugging my global variab
 <img width="1581" height="511" alt="image" src="https://github.com/user-attachments/assets/f4128e78-c81f-436f-8cf9-e2f13aa35c5f" />
 <img width="814" height="602" alt="image" src="https://github.com/user-attachments/assets/4c887f7e-39d6-4e58-bdb3-bdf4b0de4564" />
 
+Part File: [A3part.zip](https://github.com/user-attachments/files/32034400/A3part.zip)
+
+
 **Finite Element Analysis**
 
 **2a and 2b: Deflection and Von Mises Stress Map**
 
-After designing my bar, I had to run an FEA on the bar to see the Deflection and Von Mises Stress Map. The deflection map showed a maximum displacement of 0.2284 mm, which converts to 0.00899 in. The displacement that the map gives is nearly identical to our given displacement of 0.009 in. The stress map shows a nearly uniform stress distribution along the bar. There is a small stress increase on the fixed end of the bar, but I am unsure what the stress value is for that part.
+After designing my bar, I ran an FEA to see the Deflection and Von Mises Stress Map. The deflection map showed a maximum displacement of 0.2284 mm, which converts to 0.00899 in. The displacement that the map gives is nearly identical to our given displacement of 0.009 in. The stress map shows a nearly uniform stress distribution along the bar. There is a small stress increase on the fixed end of the bar, but I am unsure what the stress value is for that part.
 
 <img width="1521" height="642" alt="image" src="https://github.com/user-attachments/assets/5e7f190d-dd59-4961-b025-9029be12d6d5" />
 <img width="1536" height="629" alt="image" src="https://github.com/user-attachments/assets/bf8bd6e2-a11d-4623-9628-5baeea5808dd" />
@@ -47,10 +50,32 @@ Comparing the FEA max stress to the given 8,626 psi is much less than 40,000 psi
 
 **3a Hand-Calculations vs FEA**
 
+The stress values between my calculations and the FEA have a 5.85% discrepancy. The discrepancy comes from the hand calculations because it assumes perfect uniform stress across the entire cross-section and length of the bar. The FEA recognizes the effect of the fixed support, while the hand calculation does not account for the support. The deflection values are nearly the same, with a 0.111% difference. This isn't a surprise because a localized stress increase around the fixed end of the bar will have little effect on the stretching of the bar. In the hand calculations, we assume the bar experiences the same stress at every point. I trust the FEA results more because the hand calculations are a simplified version of the FEA. With the hand calculations, we assume an ideal, uniform stress distribution, without accounting for the geometry. I also trust the FEA more because it's a simulation run by a computer, which will have a much smaller chance of error than my calculations. The FEA is more detailed and realistic, making it more trustworthy than me. 
 
 
 <img width="3343" height="2160" alt="image" src="https://github.com/user-attachments/assets/e885d32e-454f-4285-a7fe-da7b0f5f1633" />
 
+
+
+
+**3b Stress at Pin**
+
+Assuming there is now a pin on the left side of the bar,  I assumed the diameter would  be 0.08 in. To find the ratio between the bar and pin diameters, I divided the two and got 0.32 in. Using Peterson's chart, I found that Kt equals 2.3. To find the peak stress, I multiplied 2.3 by the nominal stress from the FEA, 8,626 psi, and got 19,840 psi. To calculate the safety factor, I divided 40,000 by 19,840 and got 2.02. 
+
+
+<img width="3838" height="1685" alt="image" src="https://github.com/user-attachments/assets/4566c0d8-131a-4fcc-a9ee-66ff3a2c4df6" />
+
+
+**Lessons Learned** 
+
+The main thing I learned from this assignment was how to run an FEA in SolidWorks and the different properties and results it gives you. It's a great tool that tells you what stress your part can experience and how much the part can elongate under certain stress levels. I had previously heard of FEAs because of my friend who has already taken this course, but I had never used it before myself. I also learned about the equations feature in SolidWorks. It saves variables for you, so you can use those as dimensions within your sketch instead of inputting measurements. You can also use the feature to calculate dimensions for you, which is a neat addition. I would say I spent around 5 hours on this assignment.
+
+
+**2157 Students Only**
+
+For changing the parameters in this hypothetical situation, I chose to increase F to 450 lbf and the bar's diameter to 0.4 in. If I had just increased the force, then the length would decrease because it is in the denominator of the equation  L = δAE / F. If I increased only the diameter, the length would increase because area is in the numerator. I increased both, and ended up increasing the length to 25.14 in. The effect of changing the diameter was larger than the effect of changing the force, resulting in a greater length. 
+
+<img width="3840" height="1354" alt="image" src="https://github.com/user-attachments/assets/04b8dcf7-2fee-4de1-984e-3c407592e808" />
 
 
 
