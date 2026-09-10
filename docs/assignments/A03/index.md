@@ -12,7 +12,7 @@
 
 **1a and 1b: Choosing Dimensions and Calculating Length of Bar**
 
-Before doing any CAD work, I had to start by listing every given value or constraint to understand the guidelines for my bar. I wrote down the range for our load of choice, the maximum axial deflection, which was given, and the range for Young's modulus. After writing the givens, I calculated the area, stress, and safety factor for many different diameters. For example, I knew that if I made my bar's diameter 2.5 in, the bar would be oversized, as the stress was quite small,  and it would be way too long. If I used a very small diameter like 0.15 in, the safety would be too small at 1.77. I eventually went with 0.25 in diameter, which gave a safety factor of 4.91. I also found that A = 0.0491 in^2, and σ = 8,146.64 psi. To calculate the length of my bar, I used the direct tension elongation equation from Machinery's Handbook, which is δ = FL / AE. After rearranging this equation to solve for L, I got L = δAE / F. δ is the maximum axial deflection, 0.009 in; A is the area of the bar, 0.0491 in^2; E is Young's modulus, which I chose to be 10×10⁶ psi; and F is the force, which I chose to be 400 lb. After plugging each number into its respective variable, I found the length of my bar to be 11.05 in.
+Before doing any CAD work, I had to start by listing every given value or constraint to understand the guidelines for my bar. I wrote down the range for our load of choice, the maximum axial deflection, which was given, and the range for Young's modulus. After writing the givens, I calculated the area, stress, and safety factor for many different diameters. For example, I knew that if I made my bar's diameter 2.5 in, the bar would be oversized, as the stress was quite small,  and it would be way too long. If I used a very small diameter like 0.15 in, the safety factor would be too small at 1.77. I eventually went with 0.25 in diameter, which gave a safety factor of 4.91. I also found that A = 0.0491 in^2, and σ = 8,146.64 psi. To calculate the length of my bar, I used the direct tension elongation equation from Machinery's Handbook, which is δ = FL / AE. After rearranging this equation to solve for L, I got L = δAE / F. δ is the maximum axial deflection, 0.009 in; A is the area of the bar, 0.0491 in^2; E is Young's modulus, which I chose to be 10×10⁶ psi; and F is the force, which I chose to be 400 lb. After plugging each number into its respective variable, I found the length of my bar to be 11.05 in.
 
 <img width="2610" height="2160" alt="image" src="https://github.com/user-attachments/assets/f758389c-e682-432d-9021-f79351e675dc" />
 
@@ -41,7 +41,7 @@ After designing my bar, I ran an FEA to see the Deflection and Von Mises Stress 
 
 **2c: Safety Factor Check** 
 
-Comparing the FEA max stress to the given 8,626 psi is much less than 40,000 psi, so that checks out. I also redid the safety factor using the FEA max stress and got SF = 40,00 psi / 8,624 psi, which equals 4.64
+Comparing the FEA max stress to the given 8,626 psi is much less than 40,000 psi, so that checks out. I also redid the safety factor using the FEA max stress and got SF = 40,000 psi / 8,626 psi, which equals 4.64
 
 <img width="3840" height="1169" alt="image" src="https://github.com/user-attachments/assets/eb8ff326-3fed-4d33-a92f-c276c2232323" />
 
@@ -50,7 +50,7 @@ Comparing the FEA max stress to the given 8,626 psi is much less than 40,000 psi
 
 **3a Hand-Calculations vs FEA**
 
-The stress values between my calculations and the FEA have a 5.85% discrepancy. The discrepancy comes from the hand calculations because it assumes perfect uniform stress across the entire cross-section and length of the bar. The FEA recognizes the effect of the fixed support, while the hand calculation does not account for the support. The deflection values are nearly the same, with a 0.111% difference. This isn't a surprise because a localized stress increase around the fixed end of the bar will have little effect on the stretching of the bar. In the hand calculations, we assume the bar experiences the same stress at every point. I trust the FEA results more because the hand calculations are a simplified version of the FEA. With the hand calculations, we assume an ideal, uniform stress distribution, without accounting for the geometry. I also trust the FEA more because it's a simulation run by a computer, which will have a much smaller chance of error than my calculations. The FEA is more detailed and realistic, making it more trustworthy than me. 
+The stress values between my calculations and the FEA have a 5.85% discrepancy. The discrepancy comes from the hand calculations because it assumes perfect uniform stress across the entire cross-section and length of the bar. The FEA recognizes the effect of the fixed support, while the hand calculation does not account for the support. The deflection values are nearly the same, with a 0.111% difference. This isn't a surprise because a localized stress increase around the fixed end of the bar will have little effect on the stretching of the bar. In the hand calculations, we assume the bar experiences the same stress at every point. I trust the FEA results more because the hand calculations are a simplified version of the FEA. With the hand calculations, we assume an ideal, uniform stress distribution, without accounting for the geometry. I also trust the FEA more because it's a simulation run by a computer, which will have a much smaller chance of error than my calculations. The FEA is more detailed and realistic, making it more trustworthy than my calculations. 
 
 
 <img width="3343" height="2160" alt="image" src="https://github.com/user-attachments/assets/e885d32e-454f-4285-a7fe-da7b0f5f1633" />
@@ -60,7 +60,7 @@ The stress values between my calculations and the FEA have a 5.85% discrepancy. 
 
 **3b Stress at Pin**
 
-Assuming there is now a pin on the left side of the bar,  I assumed the diameter would  be 0.08 in. To find the ratio between the bar and pin diameters, I divided the two and got 0.32 in. Using Peterson's chart, I found that Kt equals 2.3. To find the peak stress, I multiplied 2.3 by the nominal stress from the FEA, 8,626 psi, and got 19,840 psi. To calculate the safety factor, I divided 40,000 by 19,840 and got 2.02. 
+Assuming there is now a pin on the left side of the bar,  I assumed the diameter would  be 0.08 in. To find the ratio between the bar and pin diameters, I divided the two and got 0.32. Using Peterson's chart, I found that Kt equals 2.3. To find the peak stress, I multiplied 2.3 by the nominal stress from the FEA, 8,626 psi, and got 19,840 psi. To calculate the safety factor, I divided 40,000 by 19,840 and got 2.02. 
 
 
 <img width="3838" height="1685" alt="image" src="https://github.com/user-attachments/assets/4566c0d8-131a-4fcc-a9ee-66ff3a2c4df6" />
@@ -73,7 +73,7 @@ The main thing I learned from this assignment was how to run an FEA in SolidWork
 
 **2157 Students Only**
 
-For changing the parameters in this hypothetical situation, I chose to increase F to 450 lbf and the bar's diameter to 0.4 in. If I had just increased the force, then the length would decrease because it is in the denominator of the equation  L = δAE / F. If I increased only the diameter, the length would increase because area is in the numerator. I increased both, and ended up increasing the length to 25.14 in. The effect of changing the diameter was larger than the effect of changing the force, resulting in a greater length. 
+For changing the parameters in this hypothetical situation, I chose to increase F to 450 lbf and the bar's diameter to 0.4 in. If I had just increased the force, then the length would decrease because it is in the denominator of the equation  L = δAE / F. If I increased only the diameter, the length would increase because area is in the numerator. I increased both and ended up increasing the length to 25.14 in. The effect of changing the diameter was larger than the effect of changing the force, resulting in a greater length. 
 
 <img width="3840" height="1354" alt="image" src="https://github.com/user-attachments/assets/04b8dcf7-2fee-4de1-984e-3c407592e808" />
 
