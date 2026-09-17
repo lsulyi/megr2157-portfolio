@@ -16,7 +16,7 @@ To design Feature #1, I started by listing everything given in the assignment, w
 
 
 ## Feature #2
-Feature 2 is different than Feature #1, as it's the vertical plane that bolts to a wall. Looking at Appendix B, it experiences the same moment that Feature #1 generated. For my calculations, I used some of the same numbers, like the 12,000 N*m moment, safety factor of n = 3, and the material properties of ABS. After solving both symbolically and numerically, the stress and max deflection were very similar, so I rounded both to a thickness of 16 mm, the  same as Feature #1. 
+Feature 2 is different than Feature #1, as it's the vertical plane that bolts to a wall. Looking at Appendix B, it experiences the same moment that Feature #1 generated. For my calculations, I used some of the same numbers, like the 12,000 N*mm moment, safety factor of n = 3, and the material properties of ABS. After solving both symbolically and numerically, the stress and max deflection were very similar, so I rounded both to a thickness of 16 mm, the  same as Feature #1. 
 
 <img width="2160" height="2477" alt="image" src="https://github.com/user-attachments/assets/da760a9e-63a8-4ee3-9f3b-76f7a59f5d19" />
 <img width="2160" height="2476" alt="image" src="https://github.com/user-attachments/assets/20ace94d-160c-41bd-b288-d4622a0de3a2" />
