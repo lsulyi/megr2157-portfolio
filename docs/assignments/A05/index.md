@@ -34,7 +34,7 @@ For Feature B, I listed my knowns, including: P = 2F = 1,200 lbf, width =  0.848
 
 **Feature C: Simply Supported Beam**
 
-For Feature C, I listed my knowns, including: P = 2F = 1,200 lbf, L = 2.5 in (2(0.9942) + 0.498 = 2.5), d = 1 in (Design Choice), and σ_allow = 10,000 psi. The unknown for this feature is the height. After calculating the maximum moment at the center and the section modulus, I found the height to equal 0.67 in.
+For Feature C, I listed my knowns, including: P = 2F = 1,200 lbf, L = 2.5 in (2(0.9992) + 0.498 = 2.5), d = 1 in (Design Choice), and σ_allow = 10,000 psi. The unknown for this feature is the height. After calculating the maximum moment at the center and the section modulus, I found the height to equal 0.67 in.
 
 <img width="3364" height="1719" alt="image" src="https://github.com/user-attachments/assets/0bd92fe9-fee2-4a52-957c-4a782393d473" />
 <img width="2977" height="2160" alt="image" src="https://github.com/user-attachments/assets/9f78e199-9889-4728-8d40-46419551fa60" />
@@ -47,7 +47,7 @@ For Feature D, I listed my knowns, including F = 600 lbf, SF = 4, depth = 1.0 in
 
 **Feature E: Cantilever Beam**
 
-For Feature E, I listed my knowns, including F = 600 lbf, L = 0.9992 (from b in Figure #1), d = 1.0 in, and σ_allow = 10,000 psi. The unknowns for this feature are the moment of inertia and height. To find the height, I used the formula for bending stress and calculated the height to be 0.42 in. 
+For Feature E, I listed my knowns, including F = 600 lbf, L = 0.9992 (from b in Figure #1), d = 1.0 in, and σ_allow = 10,000 psi. The unknowns for this feature are the section modulus and height. To find the height, I used the formula for bending stress and calculated the height to be 0.42 in. 
 
 <img width="2160" height="2824" alt="image" src="https://github.com/user-attachments/assets/473e40b4-27b1-4503-9aa0-337d4d952c6b" />
 
@@ -81,7 +81,7 @@ For Feature D, I listed my knowns: F = 600 lbf, E = 10,000 ksi, δ_allow = 0.005
 
 **Feature E: Cantilever Beam**
 
-For Feature E, I listed my knowns: F = 600 lbf, L = 0.9992 in, d = 1.0 in, E = 10,000 ksi, and  δ_allow = 0.005. The unknowns for this feature are the moment of inertia and height. Using the maximum deflection of a cantilever beam under a uniformly distributed load equation, I found the moment of inertia to be 0.00146 in^4, and the height to be 0.260 in. 
+For Feature E, I listed my knowns: F = 600 lbf, L = 0.9992 in, d = 1.0 in, E = 10,000 ksi, and  δ_allow = 0.005. The unknowns for this feature are the moment of inertia and height. Using the maximum deflection of a cantilever beam under a uniformly distributed load, I found the moment of inertia to be 0.00146 in^4, and the height to be 0.260 in. 
 
 <img width="2160" height="2478" alt="image" src="https://github.com/user-attachments/assets/716aae28-c453-4992-8df3-b7debaa2115f" />
 
@@ -96,7 +96,7 @@ Below is a very rough sketch of the stress bracket. I will note that I'm sorry f
 
 **Stiffness Multiview Sketch** 
 
-Below is a very rough sketch of the stiffness bracket. The lengths for each feature are: Feature A: 0.249 in; Feature B: 0.0142 in; Feature C: 0.454 in; Feature D: 0.0012 in; and Feature E: 0.260 in. 
+Below is a very rough sketch of the stiffness bracket. The lengths for each feature are: Feature A: 0.249 in; Feature B: 0.0142 in; Feature C: 0.454 in; Feature D: 0.012 in; and Feature E: 0.260 in. 
 
 <img width="2696" height="2160" alt="image" src="https://github.com/user-attachments/assets/eb6989a9-46bb-4f8a-a775-7bf7030a9c9d" />
 
@@ -105,7 +105,7 @@ Below is a very rough sketch of the stiffness bracket. The lengths for each feat
 
 **Governing failure mode:** 
 
-Stress governed every feature of my design. The difference between the two analyses varies, as Feature B had a measurement of 0.142 in for stress and 0.0142 in for stiffness. That is a 10x difference between the two. Feature C had two similar measurements because of the 0.045 deflection limit. Stress had a measurement of 0.670 in, and stiffness had a measurement of 0.454 in. The difference between these two is only 1.5x. 
+Stress governed every feature of my design. The difference between the two analyses varies, as Feature B had a measurement of 0.142 in for stress and 0.0142 in for stiffness. That is a 10x difference between the two. Feature C had two similar measurements because of the 0.005 deflection limit. Stress had a measurement of 0.670 in, and stiffness had a measurement of 0.454 in. The difference between these two is only 1.5x. 
 
 **Error propagation:** 
 
