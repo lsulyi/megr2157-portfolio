@@ -105,7 +105,7 @@ Below is a very rough sketch of the stiffness bracket. The lengths for each feat
 
 **Governing failure mode:** 
 
-Stress governed every feature of my design. The difference between the two analyses varies, as Feature B had a measurement of 0.142 in for stress, and 0.0142 in for stiffness. That is a 10x difference between the two. Feature C had two similar measurements because of the 0.045 deflection limit. Stress had a measurement of 0.670 in, and stiffness had a measurement of 0.454 in. The difference between these two is only 1.5x. 
+Stress governed every feature of my design. The difference between the two analyses varies, as Feature B had a measurement of 0.142 in for stress and 0.0142 in for stiffness. That is a 10x difference between the two. Feature C had two similar measurements because of the 0.045 deflection limit. Stress had a measurement of 0.670 in, and stiffness had a measurement of 0.454 in. The difference between these two is only 1.5x. 
 
 **Error propagation:** 
 
@@ -113,7 +113,7 @@ I had a hard time knowing whether to use F or 2F in some calculations, like in F
 
 **Assumption sensitivity:** 
 
-One big assumption for this assignment was the material, and the yield strength to go with it. I chose 6061-T6, which equates to a yield strength of 40,000 psi. Choosing the material was dictated by allowable stress, and every measurement would've been different if I had chosen one of the other required material choices.
+One big assumption for this assignment was the material and the yield strength to go with it. I chose 6061-T6, which equates to a yield strength of 40,000 psi. Choosing the material was dictated by allowable stress, and every measurement would've been different if I had chosen one of the other required material choices.
 
 
 ## Link Design 
