@@ -55,6 +55,9 @@ Shown below is the third study I made for this assignment. My design change for 
 <img width="389" height="356" alt="image" src="https://github.com/user-attachments/assets/197f481d-4641-4ca8-be75-db54e297dabd" />
 <img width="383" height="283" alt="image" src="https://github.com/user-attachments/assets/58e1c4a0-1d05-4378-aff5-a85fea30bc26" />
 
+Below is a table summarizing the studies for all three designs
+<img width="563" height="226" alt="image" src="https://github.com/user-attachments/assets/6073ca56-e978-4b0a-b392-20a3957808da" />
+
 
 ## Linkage Initial Design
 
@@ -68,7 +71,7 @@ This is the original design for my linkage, which was used for Study #1.
 
 ## Linkage Design #1
 
-This was the first study run for the linkage. For this study, the design was left unchanged from A6.
+This was the first linkage study run. For this study, the design was left unchanged from A6.
 
 <img width="1544" height="784" alt="image" src="https://github.com/user-attachments/assets/97628616-76e1-4d24-b989-71e4f263a751" />
 <img width="1549" height="784" alt="image" src="https://github.com/user-attachments/assets/d4afb69c-6ad1-4030-b7e7-0337ee50c385" />
@@ -78,7 +81,7 @@ This was the first study run for the linkage. For this study, the design was lef
 
 ## Linkage Design #2
 
-This was the second study run for the linkage. For this study, the design change was to add a .1 in fillet to the 1.0 in bottom hole. 
+This was the second linkage study run. For this study, the design change was to add a .1 in fillet to the 1.0 in bottom hole. 
 
 <img width="1017" height="803" alt="image" src="https://github.com/user-attachments/assets/ba646e86-f079-43ca-888b-ce34d5996b4b" />
 <img width="1522" height="784" alt="image" src="https://github.com/user-attachments/assets/287cd205-c3d3-4147-babb-a604cd6e8caa" />
@@ -90,7 +93,7 @@ This was the second study run for the linkage. For this study, the design change
 
 ## Linkage Design #3
 
-This was the third study run for the linkage. For this study, I kept the design change from study #2, and then lowered the thickness from 0.25 in to 0.2 in
+This was the third linkage study run. For this study, I kept the design change from study #2, and then lowered the thickness from 0.25 in to 0.2 in
 
 <img width="676" height="251" alt="image" src="https://github.com/user-attachments/assets/6cf12d0f-f396-4877-a503-6ec150824c4f" />
 <img width="1119" height="844" alt="image" src="https://github.com/user-attachments/assets/1dd8fef1-ae50-4d21-8178-c52a5a0e04af" />
@@ -100,4 +103,19 @@ This was the third study run for the linkage. For this study, I kept the design 
 
 
 
+Below is a table summarizing the studies for all three designs
+<img width="563" height="240" alt="image" src="https://github.com/user-attachments/assets/caa5711a-a53f-4256-a622-9303f2fab3b5" />
+
+
 # Reflection
+
+
+
+
+
+
+CAD Files
+[SophDes.A6.zip](https://github.com/user-attachments/files/33796936/SophDes.A6.zip)
+[SophDes(A6_Linkage).zip](https://github.com/user-attachments/files/33796873/SophDes.A6_Linkage.zip)
+
+I spent 9 hours on this assignment 
