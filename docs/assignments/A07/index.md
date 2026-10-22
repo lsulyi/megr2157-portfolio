@@ -108,8 +108,7 @@ Below is a table summarizing the studies for all three designs
 
 
 # Reflection
-
-
+From this assignment, I learned even more about the simulation feature in SolidWorks. I made many mistakes while completing this assignment, and I found it quite tedious. My first issue was setting up the study because I was unsure where to place the fixed geometry and external load. I had a second issue with the external load, which was the direction. At first, I had it in the normal direction and placed it on feature A. I later found that using a normal direction lowered the stress by roughly a factor of two. To fix this, I used the selected direction feature for external loads and fixed it using an edge on feature D. I also learned about meshes in SolidWorks. Beforehand, I had no idea what they were, but after this assignment, I understand them better. One thing I noticed while changing the mesh in Design #1 was the increase in stress as I lowered the mesh value. During my three studies, the stress increased from  615 MPa to 748 MPa to 1,114 MPa.
 
 
 
