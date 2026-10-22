@@ -99,7 +99,8 @@ This was the third linkage study run. For this study, I kept the design change f
 <img width="1119" height="844" alt="image" src="https://github.com/user-attachments/assets/1dd8fef1-ae50-4d21-8178-c52a5a0e04af" />
 <img width="1136" height="791" alt="image" src="https://github.com/user-attachments/assets/9b6cc22e-c3f6-4601-8a5b-eb8dbcc19d67" />
 <img width="486" height="745" alt="image" src="https://github.com/user-attachments/assets/0f18fce7-894a-463d-8522-692c3dc1a031" />
-<img width="377" height="277" alt="image" src="https://github.com/user-attachments/assets/a33d7be5-0493-4955-8cb2-0c31b83bcbc3" />
+<img width="563" height="220" alt="image" src="https://github.com/user-attachments/assets/26a8e54c-3b41-41b5-8451-5951fdd67309" />
+
 
 
 
