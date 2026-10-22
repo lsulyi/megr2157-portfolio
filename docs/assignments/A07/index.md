@@ -59,9 +59,33 @@ Shown below is the first study I made for this assignment.
 
 
 
-## Linkage Designs
+## Linkage Design #1
 
 
+<img width="1544" height="784" alt="image" src="https://github.com/user-attachments/assets/97628616-76e1-4d24-b989-71e4f263a751" />
+<img width="1549" height="784" alt="image" src="https://github.com/user-attachments/assets/d4afb69c-6ad1-4030-b7e7-0337ee50c385" />
+<img width="487" height="744" alt="image" src="https://github.com/user-attachments/assets/343d8b03-4669-4d69-b25d-e38f0e522e8b" />
+<img width="443" height="407" alt="image" src="https://github.com/user-attachments/assets/c4712caf-1191-43fa-bfa2-25012b8ee85e" />
+<img width="562" height="221" alt="image" src="https://github.com/user-attachments/assets/0c951104-5d11-43ee-bd91-d84884d84996" />
+
+
+
+
+## Linkage Design #2
+
+<img width="1522" height="784" alt="image" src="https://github.com/user-attachments/assets/287cd205-c3d3-4147-babb-a604cd6e8caa" />
+<img width="1540" height="784" alt="image" src="https://github.com/user-attachments/assets/53255f02-b548-4aed-a74b-b96e36e0b586" />
+<img width="486" height="745" alt="image" src="https://github.com/user-attachments/assets/99369433-d3c6-4cc8-9426-f3798aad57b4" />
+<img width="565" height="224" alt="image" src="https://github.com/user-attachments/assets/0ff7f24e-d469-4bdc-9e27-12e43ea5641c" />
+
+
+
+## Linkage Design #3
+
+<img width="1119" height="844" alt="image" src="https://github.com/user-attachments/assets/1dd8fef1-ae50-4d21-8178-c52a5a0e04af" />
+<img width="1136" height="791" alt="image" src="https://github.com/user-attachments/assets/9b6cc22e-c3f6-4601-8a5b-eb8dbcc19d67" />
+<img width="486" height="745" alt="image" src="https://github.com/user-attachments/assets/0f18fce7-894a-463d-8522-692c3dc1a031" />
+<img width="377" height="277" alt="image" src="https://github.com/user-attachments/assets/a33d7be5-0493-4955-8cb2-0c31b83bcbc3" />
 
 
 
