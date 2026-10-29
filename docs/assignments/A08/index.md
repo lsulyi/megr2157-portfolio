@@ -77,6 +77,9 @@
 
 <img width="981" height="757" alt="image" src="https://github.com/user-attachments/assets/2df5eea1-9b0b-479e-a382-130266ec19c4" />
 
+Zip File of all Parts and Drawings
+[GearBoxAssembly(A8).zip](https://github.com/user-attachments/files/34109977/GearBoxAssembly.A8.zip)
+
 
 ## Lessons Learned 
 
