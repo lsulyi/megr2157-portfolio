@@ -67,5 +67,16 @@
 
 ## Drawings & Assembly 
 
+<img width="852" height="658" alt="image" src="https://github.com/user-attachments/assets/f73511da-d5e7-4136-9859-0933be24e41b" />
+
+<img width="917" height="712" alt="image" src="https://github.com/user-attachments/assets/7ecd7cf7-a12a-43e4-b2e6-330403cec665" />
+
+<img width="1004" height="777" alt="image" src="https://github.com/user-attachments/assets/6d97106e-65e3-495f-a0b9-149a9560d44f" />
+
+<img width="896" height="694" alt="image" src="https://github.com/user-attachments/assets/bde8afcc-1a36-4a34-9659-f4f8594f7567" />
+
+<img width="981" height="757" alt="image" src="https://github.com/user-attachments/assets/2df5eea1-9b0b-479e-a382-130266ec19c4" />
+
+
 ## Lessons Learned 
 
