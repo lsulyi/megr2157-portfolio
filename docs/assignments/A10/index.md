@@ -117,6 +117,8 @@ This final picture shows the flange, screws, and the nut that were required for 
 
 <img width="398" height="299" alt="image" src="https://github.com/user-attachments/assets/87468528-4be0-4b69-b3c1-fd9620c18dab" />
 
+[CAD Files Here](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Final%20Assembly%20A10.SLDASM)
+
 ## Lessons Learned
-I learned a lot from this portfolio assignment. I found it the most time-consuming, but most informative of any. I enjoyed making the bill of materials because 
+I learned a lot from this portfolio assignment. I found it the most time-consuming, but most informative of any. I enjoyed making the bill of materials because it shows the total cost of everything to build this in person. The calculations were tedious, and I had to use past semesters' work as a reference, but eventually got it. I also found choosing the right hardware to use tedious. At first, I had the wrong nut because I originally had it as a 1-thread screw, not 2.
 
