@@ -46,18 +46,23 @@ For the deflection, the knowns are the same, except we also include the maximum 
 
 ## Crosshead Size and Material Logan Sulyi
 
+The knowns for the size and material include the load (2 kN, which equals 449.6 lbf),  the length between screws (8 in), and the width (3 in). The safety factor is 4, the maximum deflection, which is 0.1 mm, which equates to 0.003937 in, and the young modulus, which is 10 x 10⁶ psi. Using the  maximum deflection and area moment of inertia equations, I calculated the thickness to be 1.249 in.
+
+
 <img width="3117" height="4003" alt="IMG_3682 (1)" src="https://github.com/user-attachments/assets/03b2d060-9d71-4e94-97f3-60ab4904cec8" />
 
 
 
 ## Multiview Sketch of Crosshead Logan Sulyi
 
-<img width="3196" height="3433" alt="IMG_3683" src="https://github.com/user-attachments/assets/4388fc98-6b76-47e9-99ad-2ac3b279549b" />
+Below is a multiview sketch of the crosshead. It is an 11 in long by 3 in wide by 1.5 in thick rectangle made out of 6061-T6 Aluminum. The two screw holes are 0.5625 inches in diameter, 8 inches apart. The smaller screw holes are 0.266 inches in diameter, 0.453 inches away from the larger screw hole. 
+
+<img width="3633" height="3773" alt="IMG_3685 (1)" src="https://github.com/user-attachments/assets/3aab28b0-98e2-42b2-ae9c-0902ce34517b" />
 
 
 
 ## Bill of Materials Logan Sulyi 
-
+Listed below is our Bill of Materials, which includes the lead screw, the threaded nut, the flange, head screws, and an aluminum bar for the crosshead. 
 <img width="462" height="506" alt="image" src="https://github.com/user-attachments/assets/24a38244-6e47-4655-ac54-219bebab9c63" />
 
 
