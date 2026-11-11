@@ -63,7 +63,7 @@ Below is a multiview sketch of the crosshead. It is an 11 in long by 3 in wide b
 
 ## Bill of Materials Logan Sulyi 
 Listed below is our Bill of Materials, which includes the lead screw, the threaded nut, the flange, head screws, and an aluminum bar for the crosshead. 
-<img width="462" height="506" alt="image" src="https://github.com/user-attachments/assets/24a38244-6e47-4655-ac54-219bebab9c63" />
+<img width="425" height="526" alt="image" src="https://github.com/user-attachments/assets/3c7f5743-0c83-4ce6-8b26-c36932a66089" />
 
 
 
@@ -75,9 +75,4 @@ Listed below is our Bill of Materials, which includes the lead screw, the thread
 
 ## Lessons Learned
 
-
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
 
