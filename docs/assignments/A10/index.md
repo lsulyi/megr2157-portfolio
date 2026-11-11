@@ -119,7 +119,7 @@ This final picture shows the flange, screws, and the nut that were required for 
 
 [CAD Files Here](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Final%20Assembly%20A10.SLDASM)
 
-## 2157 Portion
+## 2157 Portion Nathaneal Zimmerman 
 
 For this section, we are to run FEA on our crosshead to evaluate stiffness and strength under a 2KN axial load. We are to use our results to optimize the geometry by reducing weight and stress concentrations using fillets, changing thickness, or cutting extra material out.
 
@@ -145,7 +145,7 @@ I started by adding fixed geometries to all the screw holes where the crosshead 
 
 After running the first test we can see that we have no strain and our deflection is very little having a max of .005mm which is pretty much negligible. However, our max stress is 10257662N/M^2 but it is a huge stress concentration at the innermost screw holes, with the rest of our model having much less stress. But this value is okay because our material yield strength is 275 Mpa or 275000000pa so we are way under this value.
 
-For this first test I did not edit the mesh and left it as was.
+For this first test, I did not edit the mesh and left it as was.
 
 ### Test 0.2
 
@@ -202,6 +202,6 @@ After running another test, the cutouts actually raised our stress and deflectio
 Here is the drawing of the optimized crosshead model.
 
 
-## Lessons Learned
+## Lessons Learned Logan Sulyi 
 I learned a lot from this portfolio assignment. I found it the most time-consuming, but most informative of any. I enjoyed making the bill of materials because it shows the total cost of everything to build this in person. The calculations were tedious, and I had to use past semesters' work as a reference, but eventually got it. I also found choosing the right hardware to use tedious. At first, I had the wrong nut because I originally had it as a 1-thread screw, not 2.
 
