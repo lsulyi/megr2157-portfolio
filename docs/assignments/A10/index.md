@@ -2,7 +2,7 @@
 
 ## Minimum Diameter Logan Sulyi
 
-The knowns include the total force, 2 kN, which is 1 kN per screw, a safety factor of 4, and the material is 1045 cold-drawn steel, so the yield strength is 530 MPa. To solve for the minimum diameter, I used the equations for axial and allowable stress, and found the minimum diameter to be 3.10mm (0.122 in).
+The knowns include the total force, 2 kN, which is 1 kN per screw; a safety factor of 4; and the material is 1045 cold-drawn steel, so the yield strength is 530 MPa. To solve for the minimum diameter, I used the equations for axial and allowable stress, and found the minimum diameter to be 3.10mm (0.122 in).
 
 <img width="3050" height="3577" alt="IMG_3677" src="https://github.com/user-attachments/assets/4c77c622-273b-4b79-b82c-4cca8a43321b" />
 
@@ -23,8 +23,8 @@ The knowns for the maximum torque are the load per screw, 1 kN, which equates to
 
 ## Lead Screw Selection Logan Sulyi
 
-
-
+After looking at my numbers, I chose a 1018 Carbon Steel Precision Acme Lead Screw for this project. It is a Class 2C thread fit, and it is 3 ft long. 
+<img width="1182" height="690" alt="image" src="https://github.com/user-attachments/assets/afe9ff48-b64e-4645-a825-f9ff8b9b2fba" />
 
 
 ## Nut and Flange Logan Sulyi
